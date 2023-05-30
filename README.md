@@ -6,7 +6,7 @@ API de TMDB 🎞️ (https://developer.themoviedb.org/).
 
 **Deployment**
 🔒 Por cuestiones de seguridad hacia la información personal, api key,
-este proyecto fue deployado mediante Vercel. El link para acceder al mismo es:  🔒
+este proyecto fue deployado mediante Vercel. El link para acceder al mismo es:  https://peliculas-react-nine.vercel.app/ 🔒
 
 **Scripts disponibles**
 En el directorio del proyecto, puedes ejecutar:
@@ -63,7 +63,7 @@ Esta sección se ha movido aquí: https://facebook.github.io/create-react-app/do
 My name is Mercedes Quinterno and this Movies project was created with Create React App ⚛️. The Material UI (MUI) framework was used, along with the TMDB API 🎞️ (https://developer.themoviedb.org/).
 
 **Deployment**
-🔒 Due to security reasons regarding personal information and API key, this project was deployed using Vercel. The link to access it is: 🔒
+🔒 Due to security reasons regarding personal information and API key, this project was deployed using Vercel. The link to access it is: https://peliculas-react-nine.vercel.app/ 🔒
 
 **Available Scripts**
 In the project directory, you can run:
