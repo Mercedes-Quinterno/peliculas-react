@@ -26,8 +26,8 @@ const UltimosEstrenos = () => {
   };
 
   return (
-    <Container maxWidth="xl" style={{padding: 0, paddingBottom: "20px", maxWidth: "100%", width: "100%", backgroundColor:"lightBlue"}}>
-        <Box sx={{backgroundColor:"red", height:"10vh", display: "flex", justifyContent:"center", alignItems:"center", fontSize:"3vh"}}>
+    <Container maxWidth="xl" style={{padding: 0, paddingBottom: "20px", maxWidth: "100%", width: "100%"}}>
+        <Box sx={{height:"10vh", display: "flex", justifyContent:"center", alignItems:"center", fontSize:"3vh"}}>
           Últimos estrenos
         </Box>
         <Box display={"flex"} flexDirection={"column"} justifyContent={"center"} alignItems={"center"}>

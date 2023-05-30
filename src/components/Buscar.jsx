@@ -58,7 +58,7 @@ const SearchBar = ({searchQuery, setSearchQuery}) => (
     };
   
     return (
-      <Container maxWidth="xl" style={{padding: 0, paddingBottom: "20px", maxWidth: "100%", width: "100%", backgroundColor:"lightBlue"}}>
+      <Container maxWidth="xl" style={{padding: 0, paddingBottom: "20px", maxWidth: "100%", width: "100%"}}>
           <Box
             sx={{
               display: "flex",
